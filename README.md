@@ -34,13 +34,4 @@ git clone https://github.com/Harshit21-10/CurrencyConvertor.git
 cd CurrencyConvertor
 
 
----
 
-## ⚙️ **Tech Stack**
-
-- **Framework:** React (Vite)
-- **Styling:** Tailwind CSS
-- **State & Logic:** React Hooks
-- **Tooling:** ESLint, PostCSS
-
----
